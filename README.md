@@ -3,6 +3,7 @@
 # Table of Contents
 
 - [Books](#books)
+  - [Leading Snowflakes: The Engineering Manager Handbook](#leading-snowflakes-the-engineering-manager-handbook)
   - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](#turn-the-ship-around-a-true-story-of-turning-followers-into-leaders)
   - [Other books](#other-books)
     - [Book reading lists](#book-reading-lists)
@@ -69,6 +70,10 @@
 # Books
 
 More than any other field, management is full of fluffy books that could be summarized in one 100-word article. That being said, there's a number of excellent books, listed below.
+
+## Leading Snowflakes: The Engineering Manager Handbook
+
+[Leading Snowflakes: The Engineering Manager Handbook](https://leadingsnowflakes.com/) 📖 no fluff, no bs, very practical and hands on information condensed into 120 pages. Some advice may or may not fit. [Get it with discount](https://gumroad.com/l/engineeringmanager/FredWu), you are welcome!
 
 ## Turn the Ship Around!: A True Story of Turning Followers into Leaders
 
